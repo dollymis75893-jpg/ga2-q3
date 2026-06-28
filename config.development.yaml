@@ -1,0 +1,4 @@
+port: 8315
+workers: 2
+log_level: debug
+api_key: key-mr6j4izwp6
